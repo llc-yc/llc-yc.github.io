@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lly-yc.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-05-03T09:12:14.010Z</updated>
+    <updated>2020-05-03T09:19:00.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lly-yc.github.io/"/>
     <link rel="self" href="https://lly-yc.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://lly-yc.github.io/images/avatar.png</logo>
     <icon>https://lly-yc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[何处有南北，本来无东西]]></title>
+        <id>https://lly-yc.github.io/post/he-chu-you-nan-bei-ben-lai-wu-dong-xi/</id>
+        <link href="https://lly-yc.github.io/post/he-chu-you-nan-bei-ben-lai-wu-dong-xi/">
+        </link>
+        <updated>2020-05-03T09:12:24.000Z</updated>
+        <content type="html"><![CDATA[<p>这个世界充斥着匆匆而喧闹的庸碌，只是需要给自己留一份在岁月中积淀的从容。<br>
+<img src="https://lly-yc.github.io//post-images/1588497506448.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lly-yc.github.io/post/hello-gridea/</id>
